@@ -6,7 +6,7 @@ http://github.com - automatic!
 
 |Topic|Project
 | --- | --- 
-| Data Analysis | [Yammer Database](https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/SQL%20Case%20Study/Yammer%20Case%20Study%20Analysis%20Report.pdf)
+| Data Analysis 2.0 | [Yammer Database](https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/SQL%20Case%20Study/Yammer%20Case%20Study%20Analysis%20Report.pdf)
 | Data Wrangling | [Work Bank Dataset](https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Data%20Wrangling/Data%20Wrangling%20on%20World%20Bank%20Dataset.ipynb)
 | Inferential Statistics | 1. [Human Body Temperature Dataset](https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Inferential%20Statistics/Human%20Body%20Temperature%20Dataset/Human%20Body%20Temperature%20Dataset.ipynb)
 | | 2. [Racial Discrimination in the US Job Market](https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Inferential%20Statistics/Racial%20Discrimination%20in%20the%20US%20Job%20Market/Racial%20Discrimination%20in%20the%20US%20Job%20Market.ipynb)
